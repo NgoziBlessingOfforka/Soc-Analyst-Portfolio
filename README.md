@@ -42,7 +42,7 @@ I am a **SOC Analyst & Incident Response Specialist** with experience in:
 - Threat detection and malware investigation  
 - Playbook creation and automation scripting  
 
-This repository demonstrates both my **technical skills** and my ability to document and communicate findings clearly — the qualities of an effective analyst.  
+This repository demonstrates both my **technical skills** and my ability to document and communicate findings clearly the qualities of an effective analyst.  
 
 ---
 
