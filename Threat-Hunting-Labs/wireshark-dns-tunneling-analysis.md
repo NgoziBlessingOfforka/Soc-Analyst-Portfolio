@@ -3,9 +3,9 @@
 **Author:** Ngozi Blessing Offorka  
 **Date:** 28 October 2025  
 **Category:** Network Traffic / Threat Hunting  
-## 🎯 Objective
+##  Objective
 Analyze a Wireshark capture to identify potential anomalies or malicious behaviors within DNS and encrypted traffic.
-## 📊 Summary of Findings
+##  Summary of Findings
 The packet capture revealed both IPv6 TLSv1.2 (HTTPS) traffic and IPv4 DNS communications. While TLS sessions are expected, multiple **DNS queries over TCP (port 53)** were observed, which is **unusual** unless the payload exceeds 512 bytes or the server forces TCP fallback.
 | Observation | Evidence | Analyst Interpretation |
 |--------------|-----------|------------------------|
