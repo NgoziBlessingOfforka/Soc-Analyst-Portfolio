@@ -4,7 +4,7 @@ This case study documents a suspicious screen that appeared on a laptop claiming
 
 ## Incident Screenshot
 
-![Fake Lock Screen](Fake-Lock-Screen.jpg)
+![Fake Lock Screen](Fake- Lock-Screen.jpg)
 Incident Screenshot  Initial Indicators of Suspicious Activity
 •	Alert displayed a phone number to call Microsoft support
 •	System appeared locked with a login overlay
