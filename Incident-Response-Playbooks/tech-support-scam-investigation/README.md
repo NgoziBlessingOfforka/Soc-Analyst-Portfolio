@@ -3,6 +3,7 @@
 This case study documents a suspicious screen that appeared on a laptop claiming that Windows had been locked due to unusual activity. The screen instructed the user to contact a Microsoft technical support phone number. After investigation and response actions, the issue was identified as a browser-based tech support scam designed to trick users into calling a fake support number or entering credentials.
 
 ## Incident Screenshot
+![Fake-Lock-Screen](https://github.com/user-attachments/assets/574d4bba-93d8-4674-a68c-f11492f7d034)
 
 ![Fake Lock Screen](Fake-Lock-Screen.jpg)
 Incident Screenshot  Initial Indicators of Suspicious Activity
