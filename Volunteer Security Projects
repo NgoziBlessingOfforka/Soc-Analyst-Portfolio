@@ -1,0 +1,48 @@
+##Volunteer Security Projects Repository
+
+
+##Overview
+This repository documents volunteer cybersecurity and technical support activities performed for friends, family members, and community organizations. The goal of these projects is to help individuals recover from common security issues, improve system safety, and promote basic cybersecurity awareness.
+
+These scenarios are anonymized and presented for educational purposes to demonstrate practical security troubleshooting, incident response thinking, and community-based technical support.
+##Community Partnership: Local Library Support
+As part of my volunteer cybersecurity activities, I also partner with my local library to assist community members with computer-related security issues. On weekends—especially Saturdays—many individuals visit the library seeking help with suspicious pop-ups, slow computers, browser problems, and general cybersecurity concerns.
+
+My role during these sessions includes helping users identify potential threats, guiding them through safe browsing practices, checking system security settings, and assisting with basic malware cleanup or browser security improvements. These interactions provide an opportunity to educate community members on digital safety while applying real-world cybersecurity troubleshooting skills.
+Purpose of This Repository
+•	Document real-world security troubleshooting scenarios
+•	Demonstrate practical cybersecurity response processes
+•	Promote cybersecurity awareness within community environments
+•	Showcase hands-on problem-solving skills in system recovery and security hygiene
+##Types of Volunteer Security Projects
+1. Device Recovery from Fake Security Alerts
+Many users experience fake security warnings or technical support scam messages claiming their computer is infected. In these cases, the response process includes isolating the device, terminating suspicious browser processes, clearing browser data, and running security scans.
+2. Malware and Adware Cleanup
+Some devices become slow or unstable due to adware or unwanted applications. The cleanup process includes identifying suspicious programs, removing malicious software, clearing browser extensions, and verifying system security using antivirus tools.
+3. Browser Security Hardening
+This involves helping users secure their browsers by removing risky extensions, enabling safe browsing settings, clearing malicious cookies, and educating users about phishing websites and pop-up scams.
+4. Community Computer Security Checks
+In volunteer scenarios, assistance is provided to community members, church groups, or local organizations to review the security status of their systems. This may include system updates, antivirus verification, and general device health checks.
+Typical Volunteer Response Process
+Step 1 – Device Isolation
+The first step is to disconnect the device from the internet to prevent potential malicious communication.
+Step 2 – Initial Investigation
+The system behavior is analyzed to determine whether the issue is caused by malware, scareware, misconfiguration, or a browser-based attack.
+Step 3 – Process Termination
+If a malicious browser window or application is identified, it is terminated using Task Manager.
+Step 4 – System Cleanup
+Cleanup includes clearing browser data, removing suspicious extensions, uninstalling unknown software, and scanning the system using antivirus tools.
+Step 5 – Security Verification
+A final security scan is performed to confirm that no malicious software remains on the system.
+Step 6 – User Security Education
+Users are educated on cybersecurity best practices such as recognizing phishing attempts, avoiding suspicious downloads, and maintaining updated software.
+Skills Demonstrated
+•	Incident response fundamentals
+•	Malware and scareware identification
+•	Endpoint troubleshooting
+•	System recovery procedures
+•	User cybersecurity awareness training
+
+
+##Ethical Considerations
+All scenarios documented in this repository are anonymized. No personal information, private data, or sensitive system details are included. The goal is to provide educational examples of security troubleshooting and community cybersecurity support.
